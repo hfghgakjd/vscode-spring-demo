@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Launch",
+            "request": "launch",
+            "mainClass": "com.snowfog.main.Launch",
+            "projectName": "vscode-spring-demo"
+        }
+    ]
+}
