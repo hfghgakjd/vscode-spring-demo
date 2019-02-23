@@ -20,7 +20,7 @@ public class Launch {
      * @author 邵静
      */
     public static void main(String[] args) throws Exception {
-        String webDirLocation = "src/main/webapp/";
+        String webDirLocation = "src/main/webapp";
 
         Tomcat tomcat = new Tomcat();
 
